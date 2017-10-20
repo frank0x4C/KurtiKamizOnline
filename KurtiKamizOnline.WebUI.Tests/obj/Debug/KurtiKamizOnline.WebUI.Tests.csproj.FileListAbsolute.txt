@@ -1,0 +1,46 @@
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.dll.config
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.pdb
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.Domain.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.pdb
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.Domain.pdb
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.dll.config
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.Tests.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.Domain.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\WebActivatorEx.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\EntityFramework.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.WebUI.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\Ninject.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\KurtiKamizOnline.Domain.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\EntityFramework.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.csprojResolveAssemblyReference.cache
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI.Tests\obj\Debug\KurtiKamizOnline.WebUI.Tests.pdb

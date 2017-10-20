@@ -1,0 +1,132 @@
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll.config
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.pdb
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\WebActivatorEx.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.csprojResolveAssemblyReference.cache
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.pdb
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.pdb
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll.config
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.pdb
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\WebActivatorEx.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.pdb
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.csprojResolveAssemblyReference.cache
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll.config
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\WebActivatorEx.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.csprojResolveAssemblyReference.cache
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.pdb
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll.config
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.WebUI.pdb
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\WebActivatorEx.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\KurtiKamizOnline.Domain.pdb
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\EntityFramework.SqlServer.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Moq.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Common.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\Ninject.Web.Mvc.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Razor.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Helpers.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\bin\System.Web.Mvc.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.csprojResolveAssemblyReference.cache
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.WebUI\obj\Debug\KurtiKamizOnline.WebUI.pdb

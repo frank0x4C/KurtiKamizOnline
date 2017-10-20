@@ -1,0 +1,99 @@
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll.config
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.pdb
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.dll
+c:\users\fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.pdb
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.Migrations.initial.resources
+C:\Users\Fahad\documents\visual studio 2013\Projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csproj.GenerateResource.Cache
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll.config
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.pdb
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csprojResolveAssemblyReference.cache
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.Migrations.initial.resources
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csproj.GenerateResource.Cache
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.dll
+D:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll.config
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.pdb
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csprojResolveAssemblyReference.cache
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.Migrations.initial.resources
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csproj.GenerateResource.Cache
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.dll
+F:\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.pdb
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll.config
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\KurtiKamizOnline.Domain.pdb
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Helpers.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Mvc.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.Razor.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csprojResolveAssemblyReference.cache
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.Migrations.initial.resources
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.csproj.GenerateResource.Cache
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.dll
+D:\.net projects\KurtiKamizOnline\KurtiKamizOnline.Domain\obj\Debug\KurtiKamizOnline.Domain.pdb

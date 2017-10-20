@@ -1,0 +1,19 @@
+﻿@model KurtiKamizOnline.WebUI.Models.ProductsListViewModel
+@*@using KurtiKamizOnline.WebUI.HtmlHelpers;*@
+
+@{
+    ViewBag.Title = "Products";
+}
+
+@foreach (var p in Model.Products)
+{
+
+    @Html.Partial("ProductSummary" , p)
+    
+}
+
+<div class="btn-group pull-right">
+    @*this is used for pagination, products shown on page*@
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", 
+    new { page = x, category = Model.CurrentCategory })) @*using lambda exp., passing page link to the url**@
+</div>
